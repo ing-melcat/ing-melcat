@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0D1117"/>
+  <!-- Melcat asymmetric open shield frame -->
+  <path d="M17.5 4.5 L26.5 7.5 L25.5 20.5 L22.5 24" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M5.5 14 L5.8 19.5 L8 22.2" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M9.5 24.5 L15.5 28.5 L21 24.8 L19.5 23 L15.5 25.8 L11.5 23 Z" fill="#F0F6FC"/>
+  <!-- Sharp angular blueprint / architecture cube -->
+  <polygon points="15.5,7.5 21.5,11 21.5,18 15.5,21.5 9.5,18 9.5,11" stroke="#FFFFFF" stroke-width="1.7" fill="#161B22"/>
+  <path d="M9.5 11 L15.5 14.5 L21.5 11 M15.5 14.5 V21.5" stroke="#F0F6FC" stroke-width="1.5"/>
+  <polygon points="15.5,9.8 17.5,11 15.5,12.2 13.5,11" fill="#FFFFFF"/>
+</svg>

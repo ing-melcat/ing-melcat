@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0D1117"/>
+  <!-- Melcat asymmetric open shield frame -->
+  <path d="M17.5 4.5 L26.5 7.5 L25.5 20.5 L22.5 24" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M5.5 14 L5.8 19.5 L8 22.2" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- Sharp diagonal claw/lightning base accents -->
+  <path d="M9.5 24.5 L15.5 28.5 L21 24.8 L19.5 23 L15.5 25.8 L11.5 23 Z" fill="#F0F6FC"/>
+  <path d="M21.5 14 L23.5 11.5 L23 19.5 L20.5 21.8 Z" fill="#8B949E"/>
+  <!-- Engineering pulse / identity node -->
+  <path d="M8.5 14.5 L11.8 14.5 L13.8 10 L16.2 19 L18.4 13 L20.2 14.5 L22.5 14.5" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <polygon points="10.5,6.5 12.2,9.8 14.8,8.5 16.5,5.5 15.8,10.5 11,10.5" fill="#F0F6FC"/>
+</svg>

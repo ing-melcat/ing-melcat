@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" fill="none">
+  <defs>
+    <style>
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+      .sans { font-family: 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Card 1: EMBEDDED & HARDWARE -->
+  <g transform="translate(0, 0)">
+    <polygon points="14,1 286,1 286,195 272,209 1,209 1,14" fill="#0D1117" stroke="#30363D" stroke-width="1.4"/>
+    <path d="M1 32 V14 L14 1 H34" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M286 177 V195 L272 209 H252" stroke="#8B949E" stroke-width="1.6"/>
+    <!-- Melcat mini angular shield mark -->
+    <path d="M254 16 L266 20 L265 32 L255 38 L245 32" stroke="#F0F6FC" stroke-width="1.4"/>
+    <polygon points="248,34 255,39 262,34 259,32 255,35 251,32" fill="#F0F6FC"/>
+
+    <text x="20" y="29" class="mono" font-size="11" font-weight="700" fill="#FFFFFF" letter-spacing="1.4">01 // EMBEDDED &amp; HARDWARE</text>
+    <line x1="20" y1="42" x2="266" y2="42" stroke="#21262D" stroke-width="1"/>
+    <rect x="20" y="40.5" width="48" height="2.5" fill="#F0F6FC"/>
+
+    <!-- Items with sharp angular bars -->
+    <g transform="translate(20, 62)">
+      <text x="0" y="0" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">ESP32-C3 / S3 &amp; Arduino</text>
+      <rect x="0" y="8" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,8 232,8 228,12 0,12" fill="#FFFFFF"/>
+
+      <text x="0" y="34" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">KiCad Custom PCB Layout</text>
+      <rect x="0" y="42" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,42 216,42 212,46 0,46" fill="#C9D1D9"/>
+
+      <text x="0" y="68" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Control PID &amp; PWM 20kHz</text>
+      <rect x="0" y="76" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,76 226,76 222,80 0,80" fill="#F0F6FC"/>
+
+      <text x="0" y="102" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Turbina EDF &amp; Sensores QTR/ADC</text>
+      <rect x="0" y="110" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,110 218,110 214,114 0,114" fill="#8B949E"/>
+    </g>
+
+    <text x="20" y="194" class="mono" font-size="9.5" fill="#6E7681" letter-spacing="1.1">TB6612  |  CD74HC4067  |  LEDC</text>
+  </g>
+
+  <!-- Card 2: ROBOTICS & PERCEPTION -->
+  <g transform="translate(306, 0)">
+    <polygon points="14,1 286,1 286,195 272,209 1,209 1,14" fill="#0D1117" stroke="#30363D" stroke-width="1.4"/>
+    <path d="M1 32 V14 L14 1 H34" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M286 177 V195 L272 209 H252" stroke="#8B949E" stroke-width="1.6"/>
+    <!-- Melcat mini angular shield mark -->
+    <path d="M254 16 L266 20 L265 32 L255 38 L245 32" stroke="#F0F6FC" stroke-width="1.4"/>
+    <polygon points="248,34 255,39 262,34 259,32 255,35 251,32" fill="#F0F6FC"/>
+
+    <text x="20" y="29" class="mono" font-size="11" font-weight="700" fill="#FFFFFF" letter-spacing="1.4">02 // ROBOTICS &amp; PERCEPTION</text>
+    <line x1="20" y1="42" x2="266" y2="42" stroke="#21262D" stroke-width="1"/>
+    <rect x="20" y="40.5" width="48" height="2.5" fill="#F0F6FC"/>
+
+    <g transform="translate(20, 62)">
+      <text x="0" y="0" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Robots Velocistas (Chavalin)</text>
+      <rect x="0" y="8" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,8 234,8 230,12 0,12" fill="#FFFFFF"/>
+
+      <text x="0" y="34" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Intel RealSense LiDAR L515</text>
+      <rect x="0" y="42" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,42 214,42 210,46 0,46" fill="#C9D1D9"/>
+
+      <text x="0" y="68" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Rovers Autonomos</text>
+      <rect x="0" y="76" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,76 204,76 200,80 0,80" fill="#F0F6FC"/>
+
+      <text x="0" y="102" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Ubuntu Linux &amp; Bash</text>
+      <rect x="0" y="110" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,110 218,110 214,114 0,114" fill="#8B949E"/>
+    </g>
+
+    <text x="20" y="194" class="mono" font-size="9.5" fill="#6E7681" letter-spacing="1.1">RUR - UNIPOLI DURANGO  |  3D SCAN</text>
+  </g>
+
+  <!-- Card 3: FULL-STACK, IoT & AI -->
+  <g transform="translate(612, 0)">
+    <polygon points="14,1 286,1 286,195 272,209 1,209 1,14" fill="#0D1117" stroke="#30363D" stroke-width="1.4"/>
+    <path d="M1 32 V14 L14 1 H34" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M286 177 V195 L272 209 H252" stroke="#8B949E" stroke-width="1.6"/>
+    <!-- Melcat mini angular shield mark -->
+    <path d="M254 16 L266 20 L265 32 L255 38 L245 32" stroke="#F0F6FC" stroke-width="1.4"/>
+    <polygon points="248,34 255,39 262,34 259,32 255,35 251,32" fill="#F0F6FC"/>
+
+    <text x="20" y="29" class="mono" font-size="11" font-weight="700" fill="#FFFFFF" letter-spacing="1.4">03 // FULL-STACK, IoT &amp; AI</text>
+    <line x1="20" y1="42" x2="266" y2="42" stroke="#21262D" stroke-width="1"/>
+    <rect x="20" y="40.5" width="48" height="2.5" fill="#F0F6FC"/>
+
+    <g transform="translate(20, 62)">
+      <text x="0" y="0" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">TypeScript / JavaScript / PHP</text>
+      <rect x="0" y="8" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,8 228,8 224,12 0,12" fill="#FFFFFF"/>
+
+      <text x="0" y="34" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Python &amp; Simulacion Fisica 2D</text>
+      <rect x="0" y="42" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,42 222,42 218,46 0,46" fill="#C9D1D9"/>
+
+      <text x="0" y="68" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">IoT + Discord Bots (Railway)</text>
+      <rect x="0" y="76" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,76 210,76 206,80 0,80" fill="#F0F6FC"/>
+
+      <text x="0" y="102" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">Machine Learning Pipelines</text>
+      <rect x="0" y="110" width="246" height="4" fill="#161B22"/>
+      <polygon points="0,110 198,110 194,114 0,114" fill="#8B949E"/>
+    </g>
+
+    <text x="20" y="194" class="mono" font-size="9.5" fill="#6E7681" letter-spacing="1.1">NODE.JS  |  MYSQL  |  NUMPY</text>
+  </g>
+</svg>

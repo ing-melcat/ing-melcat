@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0D1117"/>
+  <!-- Melcat asymmetric open shield frame -->
+  <path d="M17.5 4.5 L26.5 7.5 L25.5 20.5 L22.5 24" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M5.5 14 L5.8 19.5 L8 22.2" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M9.5 24.5 L15.5 28.5 L21 24.8 L19.5 23 L15.5 25.8 L11.5 23 Z" fill="#F0F6FC"/>
+  <!-- Angular IoT mesh hub -->
+  <path d="M15.5 14.5 L11 9.5 M15.5 14.5 L21.5 11 M15.5 14.5 L11.5 20.5 M15.5 14.5 L20.5 19" stroke="#8B949E" stroke-width="1.5"/>
+  <polygon points="15.5,12 18,14.5 15.5,17 13,14.5" fill="#FFFFFF"/>
+  <rect x="9.5" y="8" width="3" height="3" fill="#F0F6FC"/>
+  <rect x="20" y="9.5" width="3" height="3" fill="#F0F6FC"/>
+  <rect x="10" y="19" width="3" height="3" fill="#F0F6FC"/>
+  <rect x="19" y="17.5" width="3" height="3" fill="#F0F6FC"/>
+</svg>

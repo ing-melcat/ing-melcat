@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0D1117"/>
+  <!-- Melcat asymmetric open shield frame -->
+  <path d="M17.5 4.5 L26.5 7.5 L25.5 20.5 L22.5 24" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M5.5 14 L5.8 19.5 L8 22.2" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M9.5 24.5 L15.5 28.5 L21 24.8 L19.5 23 L15.5 25.8 L11.5 23 Z" fill="#F0F6FC"/>
+  <!-- Angular web architecture brackets </> -->
+  <path d="M12.5 11 L8.8 14.5 L12.5 18" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M18.5 11 L22.2 14.5 L18.5 18" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M16.8 9.5 L14.2 19.5" stroke="#8B949E" stroke-width="1.7" stroke-linecap="square"/>
+</svg>

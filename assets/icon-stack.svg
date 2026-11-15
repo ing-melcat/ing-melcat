@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0D1117"/>
+  <!-- Melcat asymmetric open shield frame -->
+  <path d="M17.5 4.5 L26.5 7.5 L25.5 20.5 L22.5 24" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M5.5 14 L5.8 19.5 L8 22.2" stroke="#F0F6FC" stroke-width="1.9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M9.5 24.5 L15.5 28.5 L21 24.8 L19.5 23 L15.5 25.8 L11.5 23 Z" fill="#F0F6FC"/>
+  <!-- Angular IC Microchip core -->
+  <polygon points="11.5,10 20.5,10 22,11.5 22,19.5 20.5,21 11.5,21 10,19.5 10,11.5" stroke="#FFFFFF" stroke-width="1.7" fill="#161B22"/>
+  <polygon points="14,13 18,13 18,18 14,18" fill="#FFFFFF"/>
+  <!-- PCB pins -->
+  <path d="M13.5 7 V10 M16 7 V10 M18.5 7 V10 M13.5 21 V23.5 M18.5 21 V23.5 M7.5 13 H10 M7.5 17.5 H10 M22 13 H24.2 M22 17.5 H24.2" stroke="#8B949E" stroke-width="1.5" stroke-linecap="square"/>
+</svg>
